@@ -1,0 +1,80 @@
+{
+  "mapper_settings": {
+    "active_atoms": [
+      1,
+      4,
+      5,
+      7,
+      10,
+      12
+    ],
+    "afir_gamma_kJmol": 250,
+    "dist_lower_ang": 2,
+    "dist_upper_ang": 7,
+    "max_iterations": 500,
+    "max_pairs": 9999,
+    "n_parallel": 3,
+    "output_dir": "mapper_output_rcmc_2",
+    "rcmc_reaction_time_s": 0.00001,
+    "rcmc_temperature_K": 273.15,
+    "rmsd_threshold": 0.5,
+    "rng_seed": 42,
+    "temperature_K": 1000,
+    "use_rcmc": true
+  },
+  "step1_settings": {
+    "dissociate_check": "10.0",
+    "electronic_charge": 0,
+    "opt_method": [
+      "rsirfo_block_fsb"
+    ],
+    "othersoft": "gfn1xtb",
+    "spin_multiplicity": 1,
+    "use_model_hessian": "fischerd3old"
+  },
+  "step2_settings": {
+    "NSTEP": 25,
+    "align_distances_energy_predicted": 2,
+    "electronic_charge": 0,
+    "node_distance": 0.5,
+    "othersoft": "gfn1xtb",
+    "spin_multiplicity": 1,
+    "use_model_hessian": "fischerd3old"
+  },
+  "step3_settings": {
+    "NSTEP": 200,
+    "calc_exact_hess": 5,
+    "detect_negative_eigenvalues": true,
+    "electronic_charge": 0,
+    "frequency_analysis": true,
+    "max_trust_radius": 0.2,
+    "min_trust_radius": 0.1,
+    "opt_method": [
+      "rsirfo_block_bofill"
+    ],
+    "othersoft": "gfn1xtb",
+    "spin_multiplicity": 1,
+    "tight_convergence_criteria": true
+  },
+  "step4_settings": {
+    "calc_exact_hess": 10,
+    "electronic_charge": 0,
+    "frequency_analysis": true,
+    "intrinsic_reaction_coordinates": [
+      "0.4",
+      "300",
+      "lqa"
+    ],
+    "opt_method": [
+      "rsirfo_block_bofill"
+    ],
+    "othersoft": "gfn1xtb",
+    "spin_multiplicity": 1,
+    "step4b_opt_method": [
+      "rsirfo_block_fsb"
+    ],
+    "tight_convergence_criteria": true
+  },
+  "top_n_candidates": 3,
+  "work_dir": "autots_run"
+}

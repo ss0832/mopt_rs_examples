@@ -1,0 +1,11 @@
+# Iter 000499 | queued=80 | finished_jobs=498 | ref_energy=-19.526237864881 Ha | rule=kinetics
+# kinetics by rcmc (Population after 1e-5 s): EQ8 2.495e-1, EQ2 2.495e-1, EQ1 1.944e-1
+Node: EQ000048 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.526237864881 Ha | selected=true
+Node: EQ000050 | Priority: 0.000000000000e0 | pending_pairs=8 | visits=0 | energy=-19.504378535172 Ha | selected=false
+Node: EQ000051 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.524878489132 Ha | selected=false
+Node: EQ000052 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.522813038958 Ha | selected=false
+Node: EQ000053 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.466488778492 Ha | selected=false
+Node: EQ000055 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.524878489139 Ha | selected=false
+Node: EQ000057 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.524550351506 Ha | selected=false
+Node: EQ000058 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.522865926601 Ha | selected=false
+Node: EQ000059 | Priority: 0.000000000000e0 | pending_pairs=9 | visits=0 | energy=-19.525154316406 Ha | selected=false

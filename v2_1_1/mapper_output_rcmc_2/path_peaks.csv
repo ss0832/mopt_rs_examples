@@ -1,0 +1,14 @@
+id,label,level,energy_hartree,end_1,end_2,height_above_end_1_kcal_mol,height_above_end_2_kcal_mol,method,points,path_converged,ts_searches,job,structure_file,path_file,joined_by
+0,PP0,1,-19.481534711793,EQ3,EQ4,23.4508,25.1221,"neb of the AFIR path",18,false,1,5,structures/PP000000.xyz,paths/PP000000_path.xyz,
+1,PP1,1,-19.467817633791,EQ0,EQ2,31.7939,33.8654,"neb of the AFIR path",18,false,1,45,structures/PP000001.xyz,paths/PP000001_path.xyz,
+2,PP2,1,-19.467748464842,EQ5,EQ8,31.8373,33.9088,"neb of the AFIR path",17,false,1,51,structures/PP000002.xyz,paths/PP000002_path.xyz,
+3,PP3,1,-19.526073923994,EQ20,EQ22,3.7973,3.5749,"neb of the AFIR path",11,false,1,115,structures/PP000003.xyz,paths/PP000003_path.xyz,TS61
+4,PP4,1,-19.525830665933,EQ29,EQ21,3.9499,3.7276,"neb of the AFIR path",12,false,1,162,structures/PP000004.xyz,paths/PP000004_path.xyz,TS50
+5,PP5,1,-19.529354470982,EQ26,EQ25,0.7949,2.0058,"neb of the AFIR path",14,false,3,288,structures/PP000005.xyz,paths/PP000005_path.xyz,TS72
+6,PP6,1,-19.424669388423,EQ43,EQ49,35.0234,35.7387,"neb of the AFIR path",16,false,1,441,structures/PP000006.xyz,paths/PP000006_path.xyz,
+7,PP7,1,-19.440029347053,EQ49,EQ41,26.1002,26.4058,"neb of the AFIR path",17,false,2,455,structures/PP000007.xyz,paths/PP000007_path.xyz,TS110
+8,PP8,1,-19.434309868493,EQ49,EQ41,29.6892,29.9949,"neb of the AFIR path",18,false,3,460,structures/PP000008.xyz,paths/PP000008_path.xyz,TS110
+9,PP9,1,-19.475811075781,EQ49,EQ41,3.6468,3.9525,"neb of the AFIR path",21,false,3,470,structures/PP000009.xyz,paths/PP000009_path.xyz,TS110
+10,PP10,1,-19.424593866727,EQ56,EQ41,35.0708,36.0918,"neb of the AFIR path",18,false,1,473,structures/PP000010.xyz,paths/PP000010_path.xyz,
+11,PP11,1,-19.474536904082,EQ56,EQ49,3.7311,4.4464,"neb of the AFIR path",24,false,3,479,structures/PP000011.xyz,paths/PP000011_path.xyz,TS119
+12,PP12,1,-19.516565515829,EQ47,EQ58,6.0695,3.9536,"neb of the AFIR path",15,false,1,491,structures/PP000012.xyz,paths/PP000012_path.xyz,

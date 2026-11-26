@@ -1,0 +1,6 @@
+id,complex,channel,level,energy_difference_kcal_mol,fragments,job
+0,EQ41,DC0,1,2.6460,CH2O + C4H6,370
+1,EQ43,DC0,1,1.6251,CH2O + C4H6,376
+2,EQ49,DC0,1,2.3404,CH2O + C4H6,429
+3,EQ54,DC0,1,1.4964,CH2O + C4H6,439
+4,EQ56,DC0,1,1.6251,CH2O + C4H6,465

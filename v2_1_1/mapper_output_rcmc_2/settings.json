@@ -1,0 +1,8 @@
+{
+  "INPUT": [
+    "mapper_test.xyz"
+  ],
+  "config_file": "mapper_test.json",
+  "mopt_rs_version": "2.1.1",
+  "update_projection": "on"
+}
