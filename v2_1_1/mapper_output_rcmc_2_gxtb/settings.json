@@ -1,0 +1,9 @@
+{
+  "INPUT": [
+    "mapper_test.xyz"
+  ],
+  "config_file": "mapper_test_gxtb.json",
+  "mopt_rs_version": "2.1.1",
+  "output_dir": "mapper_output_rcmc_2_gxtb",
+  "update_projection": "on"
+}

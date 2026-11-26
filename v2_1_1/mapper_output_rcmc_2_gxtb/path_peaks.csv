@@ -1,0 +1,5 @@
+id,label,level,energy_hartree,end_1,end_2,height_above_end_1_kcal_mol,height_above_end_2_kcal_mol,method,points,path_converged,ts_searches,job,structure_file,path_file,joined_by
+0,PP0,1,-270.478768044349,EQ8,EQ4,7.7143,6.7571,"neb of the AFIR path",18,false,1,118,structures/PP000000.xyz,paths/PP000000_path.xyz,
+1,PP1,1,-270.519460716902,EQ23,EQ26,3.2629,2.6596,"neb of the AFIR path",10,false,1,185,structures/PP000001.xyz,paths/PP000001_path.xyz,TS61
+2,PP2,1,-270.510842784769,EQ30,EQ31,9.0251,8.4673,"neb of the AFIR path",16,false,1,214,structures/PP000002.xyz,paths/PP000002_path.xyz,TS63
+3,PP3,1,-270.521204175260,EQ28,EQ17,0.6488,1.9868,"neb of the AFIR path",13,false,1,331,structures/PP000003.xyz,paths/PP000003_path.xyz,TS80
